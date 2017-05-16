@@ -5,9 +5,5 @@ module.exports = {
 
   normalizeEntityName: function() {
     // no-op
-  },
-
-  afterInstall: function(options) {
-    return this.addBowerPackageToProject('d3');
   }
 };
