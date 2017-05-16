@@ -44,7 +44,8 @@
     "d3"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "d3": "~3.5.6"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
